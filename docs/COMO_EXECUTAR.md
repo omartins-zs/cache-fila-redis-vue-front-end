@@ -60,3 +60,5 @@ Este projeto **não possui tela de login** — é apenas o formulário de envio.
 ## Outros documentos
 
 - [README.md](../README.md) — Visão geral do Front-end e do fluxo dos 3 projetos
+
+- [ACESSOS_TESTES.md](ACESSOS_TESTES.md) — Credenciais, URLs e como testar o fluxo
